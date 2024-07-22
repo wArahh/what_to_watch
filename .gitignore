@@ -131,5 +131,5 @@ dmypy.json
 .vscode
 
 .idea
-/тяжело.py
-!/тяжело.html
+/migrations/
+/instance/
