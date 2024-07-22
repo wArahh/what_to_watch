@@ -132,4 +132,4 @@ dmypy.json
 
 .idea
 /тяжело.py
-/тяжело.html
+!/тяжело.html
